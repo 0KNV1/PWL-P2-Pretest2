@@ -37,7 +37,7 @@
       <div class="container">
         <div class="flex -mx-4 items-center justify-between relative">
           <div class="px-4 w-60 max-w-full">
-            <a href="index.html" class="navbar-logo w-full block py-5">
+            <a href="/index" class="navbar-logo w-full block py-5">
               <img
                 src="assets/images/logo/logo-white.svg"
                 alt="logo"
@@ -252,7 +252,7 @@
                       "
                     >
                       <a
-                        href="about.html"
+                        href="/about"
                         class="
                           block
                           text-sm text-body-color
@@ -265,7 +265,7 @@
                         About Page
                       </a>
                       <a
-                        href="pricing.html"
+                        href="/pricing"
                         class="
                           block
                           text-sm text-body-color
@@ -278,7 +278,7 @@
                         Pricing Page
                       </a>
                       <a
-                        href="contact.html"
+                        href="/contact"
                         class="
                           block
                           text-sm text-body-color
@@ -291,7 +291,7 @@
                         Contact Page
                       </a>
                       <a
-                        href="blog-grids.html"
+                        href="/blog-grids"
                         class="
                           block
                           text-sm text-body-color
@@ -304,7 +304,7 @@
                         Blog Grid Page
                       </a>
                       <a
-                        href="blog-details.html"
+                        href="/blog-details"
                         class="
                           block
                           text-sm text-body-color
@@ -317,7 +317,7 @@
                         Blog Details Page
                       </a>
                       <a
-                        href="signup.html"
+                        href="/signup"
                         class="
                           block
                           text-sm text-body-color
@@ -330,7 +330,7 @@
                         Sign Up Page
                       </a>
                       <a
-                        href="signin.html"
+                        href="/signin"
                         class="
                           block
                           text-sm text-body-color
@@ -343,7 +343,7 @@
                         Sign In Page
                       </a>
                       <a
-                        href="404.html"
+                        href="/404"
                         class="
                           block
                           text-sm text-body-color
@@ -362,7 +362,7 @@
             </div>
             <div class="sm:flex justify-end hidden pr-16 lg:pr-0">
               <a
-                href="signin.html"
+                href="/signin"
                 class="
                   text-base
                   font-medium
@@ -376,7 +376,7 @@
                 Sign In
               </a>
               <a
-                href="signup.html"
+                href="/signup"
                 class="
                   text-base
                   font-medium
@@ -1683,7 +1683,7 @@
           <div class="w-full md:w-1/2 lg:w-1/3 px-4">
             <div class="mb-10 group wow fadeInUp" data-wow-delay=".1s">
               <div class="rounded overflow-hidden mb-8">
-                <a href="blog-details.html" class="block">
+                <a href="/blog-details" class="block">
                   <img
                     src="assets/images/blog/blog-01.jpg"
                     alt="image"
@@ -1715,7 +1715,7 @@
                 </span>
                 <h3>
                   <a
-                    href="blog-details.html"
+                    href="/blog-details"
                     class="
                       font-semibold
                       text-xl
@@ -1741,7 +1741,7 @@
           <div class="w-full md:w-1/2 lg:w-1/3 px-4">
             <div class="mb-10 group wow fadeInUp" data-wow-delay=".15s">
               <div class="rounded overflow-hidden mb-8">
-                <a href="blog-details.html" class="block">
+                <a href="/blog-details" class="block">
                   <img
                     src="assets/images/blog/blog-02.jpg"
                     alt="image"
@@ -1773,7 +1773,7 @@
                 </span>
                 <h3>
                   <a
-                    href="blog-details.html"
+                    href="/blog-details"
                     class="
                       font-semibold
                       text-xl
@@ -1799,7 +1799,7 @@
           <div class="w-full md:w-1/2 lg:w-1/3 px-4">
             <div class="mb-10 group wow fadeInUp" data-wow-delay=".2s">
               <div class="rounded overflow-hidden mb-8">
-                <a href="blog-details.html" class="block">
+                <a href="/blog-details" class="block">
                   <img
                     src="assets/images/blog/blog-03.jpg"
                     alt="image"
@@ -1831,7 +1831,7 @@
                 </span>
                 <h3>
                   <a
-                    href="blog-details.html"
+                    href="/blog-details"
                     class="
                       font-semibold
                       text-xl
